@@ -4,9 +4,9 @@
 
 Altair slc language3 proc r read write csv files and summarize and looping with sqlite
 
-Note: Note sqlite has csv read and write commands, however I want to preset general txt processing in sql.
+Note: SQLite has CSV read and write commands; however, I want to handle general text processing in SQL.
       Keep in mind that I am demonstrating the exact sqlite queries 9 languages below.
-      In addition you use the exact same queries in any language or operating system that is odbc compliant.
+      In addition, you can use the exact same queries on any ODBC-compliant language or operating system.
 
 Too long to post on a list, see github
 https://github.com/rogerjdeangelis/utl-altair-slc-language3-proc-r-read-write-csv-files-and-summarize-and-looping-with-sqlite
