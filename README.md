@@ -1,10 +1,10 @@
-# utl-altair-slc-language3-proc-r-read-write-csv-files-and-summarize-and-looping-with-sqlite
+# utl-altair-slc-language3-proc-r-read-write-text-files-and-summarize-and-looping-with-sqlite
 Altair slc language3 proc r read write csv files and summarize and looping with sqlite
-    %let pgm=utl-altair-slc-language3-proc-r-read-write-csv-files-and-summarize-and-looping-with-sqlite;
+    %let pgm=utl-altair-slc-language3-proc-r-read-write-text-files-and-summarize-and-looping-with-sqlite;
 
     %stop_submission;
 
-    Altair slc language3 proc r read write csv files and summarize and looping with sqlite
+    Altair slc language3 proc r read write text files and summarize and looping with sqlite
 
     Note: SQLite has CSV read and write commands; however, I want to handle general text processing in SQL.
       Keep in mind that I am demonstrating the exact sqlite queries 9 languages below.
